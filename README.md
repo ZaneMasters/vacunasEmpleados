@@ -1,5 +1,8 @@
 # vacunacion-empleados
 
+To execute this project you need Mongodb installed and running.
+
+
 ## Project setup
 ```
 yarn install
